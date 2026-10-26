@@ -1,4 +1,4 @@
-# 🎪 Virtual Twin: Stage & Venue Visualizer
+﻿# 🎪 Virtual Twin: Stage & Venue Visualizer
 
 A GenAI-powered tool that turns an event theme into an interactive 3D venue you can walk around before you book it.
 
@@ -16,6 +16,9 @@ Describe your event (for example, "Cyberpunk birthday party with neon lights"), 
 
 ## Features
 
+- 📋 **Planner tab:** budget breakdown (table and chart), countdown timeline, tick-box vendor checklist with progress, and personalised ideas for theme, decor, food, activities and return gifts
+- ⬇️ Download the full plan as Markdown, and ask for changes like "make it cheaper"
+- 🔗 The 3D tab compares the decor estimate with the decor budget from your plan
 - 🎨 Theme-based 3D venue generation (neon, royal, jungle and more)
 - 🪑 Auto-placed tables, chairs, stage, banner, dance floor and coloured lights
 - 🖱️ Interactive view: drag to orbit, scroll to zoom, right-drag to pan
@@ -82,15 +85,15 @@ Add your screenshots here, for example:
 
 ## Demo
 
-- 🎥 Demo video: _add your unlisted YouTube or Drive link_
-- 🌐 Live app: _add your Streamlit Cloud link_
+- 🎥 Demo video: https://youtu.be/jbMPkzpaGuo
 
 ## Future Ideas
 
-- Budget planner, timeline and vendor checklist in the same app
+- Save and reload plans, and share the vendor checklist with family
 - Drag-and-drop editing of objects in the 3D view
 - Export the layout as an image or PDF to share with family and vendors
 
 ## Author
 
 Nandini ([@nandinichiliveru030-commits](https://github.com/nandinichiliveru030-commits))
+
